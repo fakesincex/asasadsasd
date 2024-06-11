@@ -1,0 +1,8 @@
+name: FakeHardcore
+version: 1.1
+main: com.fakehardcore.FakeHardcore
+api-version: 1.20
+commands:
+  hc:
+    description: Команды для управления Hardcore
+    usage: /<command>
